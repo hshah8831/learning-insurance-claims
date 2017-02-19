@@ -23,3 +23,5 @@ Current limitation:
 	Cannot provide input file name, batch size from the command line. They are hard coded in the code.
 	Batch size should be exact multiple of the total number of records. (The placeholder in tensorflow has to be 
 	given exact batch size before the program runs, and cannot be changed in the middle of a session)
+
+For more details on project check the report folder.
